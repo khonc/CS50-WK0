@@ -1,2 +1,2 @@
-# CS50-WK0
+# CS50x
 Problem Set 0
